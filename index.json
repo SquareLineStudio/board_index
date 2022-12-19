@@ -10,5 +10,8 @@
   "esp32_s3_lcd_ev_v1_0_0": "https://github.com/SquareLineStudio/board_esp32_s3_lcd_ev/tree/v1.0.0",
   "esp32_s3_eye_v1_0_0": "https://github.com/SquareLineStudio/boards_esp32_s3_eye/tree/v1.0.0",
   "esp32_s2_kaluga_kit_v1_0_0": "https://github.com/SquareLineStudio/board_esp32_s2_kaluga_kit/tree/v1.0.0",
-  "esp32_s3_usb_otg_v1_0_0":"https://github.com/SquareLineStudio/board_esp32_s3_usb_otg/tree/v1.0.0"
+  "esp32_s3_usb_otg_v1_0_0":"https://github.com/SquareLineStudio/board_esp32_s3_usb_otg/tree/v1.0.0",
+  "numaker-hmi-m467_v1_0_0":"https://github.com/SquareLineStudio/board_numaker-hmi-m467/tree/v1.0.0",
+  "numaker-hmi-n9h30_v1_0_0":"https://github.com/SquareLineStudio/board_numaker-hmi-n9h30/tree/v1.0.0",
+  "numaker-hmi-ma35d1_v1_0_0":"https://github.com/SquareLineStudio/board_numaker-hmi-ma35d1/tree/v1.0.0"
 }

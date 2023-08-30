@@ -19,7 +19,7 @@
   "numaker-hmi-n9h30_v1_0_0":"https://github.com/SquareLineStudio/board_numaker-hmi-n9h30/tree/v1.0.0",
   "numaker-hmi-ma35d1_v1_0_0":"https://github.com/SquareLineStudio/board_numaker-hmi-ma35d1/tree/v1.0.0",
   "nk-980iotg2d_v1_0_0":"https://github.com/SquareLineStudio/board_nk-980iotg2d/tree/v1.0.0",
-  "nxp_evkmimxrt1064_v1_0_0":"https://github.com/SquareLineStudio/board_evkmimxrt1064/tree/v1.0.0",
+  "evkmimxrt1064_v1_0_0":"https://github.com/SquareLineStudio/board_evkmimxrt1064/tree/v1.0.0",
   "evkmimxrt595_v1_0_0":"https://github.com/SquareLineStudio/board_evkmimxrt595/tree/v1.0.0",
   "stm32h7b3i_v1_0_0":"https://github.com/SquareLineStudio/board_stm32h7b3i/tree/v1.0.0",
   "arduino_tft_espi_v1_0_0":"https://github.com/SquareLineStudio/board_arduino_tft_espi/tree/v1.0.0",
